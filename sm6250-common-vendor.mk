@@ -1440,6 +1440,7 @@ PRODUCT_PACKAGES += \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
+    qti-telephony-common \
     WfdCommon \
     audiosphere \
     android.hardware.gnss@2.1-service-qti \
